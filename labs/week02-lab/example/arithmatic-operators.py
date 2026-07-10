@@ -38,7 +38,7 @@ print(f"Modulo:         {a} % {b} = {result_mod}")
 
 # Exponentiation (**)
 result_exp = a ** b
-print(f"Exponentiation: {a} ** {b} = {result_exp}")
+print(f"Exponentiation: {a} ** {b} = {re sult_exp}")
 
 print()
 
