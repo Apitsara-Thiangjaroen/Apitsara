@@ -17,7 +17,8 @@ numbers_copy.sort()                         # Sort in place
 print(f"Sorted: {numbers_copy}")           # [1, 1, 2, 3, 4, 5, 5, 6, 9]
 
 numbers_copy.sort(reverse=True)             # Sort descending
-print(f"Reverse sorted: {numbers_copy}")   # [9, 6, 5, 5, 4, 3, 2, 1, 1]
+print(f"Reverse sorted: {numbers_copy}")   # [9, 6.
+\, 5, 5, 4, 3, 2, 1, 1]
 
 # sorted() function - returns new list
 sorted_numbers = sorted(numbers)

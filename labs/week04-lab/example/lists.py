@@ -1,4 +1,4 @@
-# Empty list
+ # Empty list
 empty_list = []
 another_empty_list = list()
 
