@@ -112,9 +112,14 @@ def square(n):
     """Returns the square of a number"""
     return n * n
 
+# จากตัวอย่าง ให้สร้าง function ชื่อ square_root(n):
+def square_root(n):
+    return n ** 0.5
+
 print("Using return values in expressions:")
 result = multiply(4, 5) + square(3)
 print(f"multiply(4, 5) + square(3) = {multiply(4, 5)} + {square(3)} = {result}")
+print(f"square_root of 25 =,square_rooe_(25)") 
 print()
 
 # =============================================================================
