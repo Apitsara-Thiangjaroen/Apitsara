@@ -28,3 +28,8 @@ Age Group: Young Adult (18-30)
 Phone: +91-9876543210
 
 """
+
+print("=== PERSONAL INFORMATION VALIDATOR ===")
+name = input("Enter your name: ")
+age = int(input(Enter your age: ))
+phone = input("Enter your phone number :")
